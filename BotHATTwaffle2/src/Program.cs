@@ -56,6 +56,7 @@ namespace BotHATTwaffle2
             // external source! In this case, we are reading the token 
             // from an environment variable. If you do not know how to set-up
             // environment variables, you may find more information on the 
+            // CSGOJohnMAdden Helped
             // Internet or by using other methods such as reading from 
             // a configuration.
 
